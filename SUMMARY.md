@@ -11,6 +11,7 @@
 * [Troubleshooting](application/troubleshooting.md)
 * [Security](application/security.md)
 * [FAQs](application/faqs.md)
+* [Pricing](application/pricing.md)
 
 ## 📜 Legal
 
