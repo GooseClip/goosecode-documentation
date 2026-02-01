@@ -36,11 +36,7 @@ If you're a software developer, tester, code reviewer or lead/architect/CTO, Goo
 ## Supported Platforms
 
 {% hint style="success" %}
-Supported: iPad, MacOS, Windows
-{% endhint %}
-
-{% hint style="info" %}
-Not yet supported: Linux
+Supported: iPad, MacOS, Windows, Linux
 {% endhint %}
 
 {% hint style="warning" %}
