@@ -38,6 +38,12 @@ You can reset the access to your IDE by running the command:
 
 `GooseCode: Purge Certificates and Regenerate Password` in the command palette.
 
+### Code Source Not Showing
+
+Try toggling the code source off and on in the GooseCode IDE pane.
+
+
+
 ***
 
 ## GitHub Setup
