@@ -5,6 +5,8 @@ icon: info
 
 # About
 
+## <a href="https://gooseclip.com/goosecode/" class="button primary">Download GooseCode </a>
+
 ## Mission
 
 To help understand and communicate complex software projects.&#x20;
