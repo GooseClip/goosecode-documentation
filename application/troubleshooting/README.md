@@ -12,6 +12,20 @@ If you've found a bu, please report it via the issues repo in GitHub.
 
 ***
 
+## Known Issues
+
+### Linking Anonymous Account
+
+After linking anonymous account with Apple, Google or GitHub you may not be able to create or open projects due to a token invalidation issue.
+
+{% hint style="info" %}
+Observed 2.0.4
+{% endhint %}
+
+{% hint style="success" %}
+Workaround -> Log out and log in again
+{% endhint %}
+
 ## IDE
 
 ### Connection Issues
