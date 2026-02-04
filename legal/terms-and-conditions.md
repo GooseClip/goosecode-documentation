@@ -132,8 +132,7 @@ We do not monitor or control the content you create using our Service. You agree
 
 While we strive to prevent data loss and provide a reliable service, we do not guarantee that there will be no loss of data or other technical issues that might result in loss of data. You are responsible for backing up your content and agree to use the Service at your own risk.
 
-\
-
+<br>
 
 ## Copyright Policy
 

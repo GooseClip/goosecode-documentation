@@ -29,7 +29,7 @@ Check for port conflicts. You can change your port using in the extension settin
 {% endhint %}
 
 {% hint style="info" %}
-If you're connecting across devices, ensure `localhost only` is disabled. Refer [#cross-device-connection](ide-integration-alpha.md#cross-device-connection "mention")
+If you're connecting across devices, ensure `localhost only` is disabled. Refer [#cross-device-connection](../ide-integration-alpha.md#cross-device-connection "mention")
 {% endhint %}
 
 ### Resetting Access
@@ -48,4 +48,4 @@ Try toggling the code source off and on in the GooseCode IDE pane.
 
 ## GitHub Setup
 
-Please refer to [github-integration.md](github-integration.md "mention").
+Please refer to [github-integration.md](../github-integration.md "mention").
