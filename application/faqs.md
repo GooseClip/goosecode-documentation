@@ -10,7 +10,7 @@ The goal of GooseCode is to have a seamless integration with your operating syst
 
 ## What is Version 2?
 
-GooseCode version 2 as a desktop, cloud native solution, which focuses on collaboration and IDE integration. It is geared towards the evolving developer flows using AI coding tooling. GooseCode 2 will continue to evolve and we do not expect a version 3.
+GooseCode version 2 as a desktop, cloud native solution, which focuses on collaboration and IDE integration. It is geared towards the evolving developer flows using AI coding tooling.
 
 ## What happened to Version 1?
 
